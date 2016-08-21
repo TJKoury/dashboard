@@ -1,1 +1,1 @@
-# dashboard
+sudo systemctl start elasticsearch.service
